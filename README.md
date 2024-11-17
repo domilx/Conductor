@@ -59,6 +59,7 @@ cargo install cargo-bundle
 
 # Conductor
 git clone https://github.com/Redrield/Conductor
+cd Conductor
 make setup && make release
 ```  
 
