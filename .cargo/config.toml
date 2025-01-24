@@ -1,2 +1,0 @@
-[build]
-rustflags = ["-Wno-int-conversion"]
